@@ -8,7 +8,7 @@ describe('first test in puppeteer',function(){
                        headless: false,
                        defaultViewport: {
                            width: 1200,
-                           height: 1000
+                           height: 500
                      }
                 });
             
